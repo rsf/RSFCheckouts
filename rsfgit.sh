@@ -7,7 +7,7 @@ if [ $# != 2 ]; then
 fi
 
 rsf_core=('PonderUtilCore' 'ServletUtil' 'RSFUtil' 'RSFComponents');
-sakai_rsf=("${rsf_core[@]}" 'SakaiRSF' 'SakaiRSFSamples' 'SakaiRSFComponents);
+sakai_rsf=("${rsf_core[@]}" 'SakaiRSF' 'SakaiRSFSamples' 'SakaiRSFComponents');
 echo ${sakai_rsf[@]};
 
 if [ $1 = 'clone' ];
