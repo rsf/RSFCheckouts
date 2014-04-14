@@ -17,3 +17,23 @@ Now master = trunk, which is where tags and branches will be created from
 5. git branch -m 0.8 master
 6. git push origin master -f
 7. git push origin :0.8
+
+The current versions stand as:
+
+Some help for release will follow but all of these release correctly to 
+sonatype snapshots.
+
+(POM-4)
+RSF-POMs 
+
+(1.4 -SNAPSHOT)
+PonderUtilCore 
+ServletUtil 
+
+(0.8-SNAPSHOT)
+RSFUtil 
+RSFComponents
+
+SakaiRSF 
+SakaiRSFComponents
+
