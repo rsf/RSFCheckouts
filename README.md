@@ -23,10 +23,10 @@ The current versions stand as:
 Some help for release will follow but all of these release correctly to 
 sonatype snapshots.
 
-(POM-4)
+(POM-5)
 RSF-POMs 
 
-(1.4 -SNAPSHOT)
+(1.3-SNAPSHOT)
 PonderUtilCore 
 ServletUtil 
 
