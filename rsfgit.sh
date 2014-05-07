@@ -6,7 +6,7 @@ if [ $# != 2 ]; then
     exit 
 fi
 
-rsf_core=('PonderUtilCore' 'ServletUtil' 'RSFUtil' 'RSFComponents');
+rsf_core=('PonderUtilCore' 'ServletUtil' 'RSFUtil' 'RSFComponents' 'RSF-POMs');
 sakai_rsf=("${rsf_core[@]}" 'SakaiRSF' 'SakaiRSFSamples' 'SakaiRSFComponents');
 echo ${sakai_rsf[@]};
 
