@@ -23,17 +23,19 @@ The current versions stand as:
 Some help for release will follow but all of these release correctly to 
 sonatype snapshots.
 
-(POM-5)
+(POM-6 / POM-7-SNAPSHOT)
 RSF-POMs 
 
-(1.3-SNAPSHOT)
+(1.3.1-SNAPSHOT)
 PonderUtilCore 
 ServletUtil 
 
-(0.8-SNAPSHOT)
+(0.8.1-SNAPSHOT)
 RSFUtil 
-RSFComponents
 
+(8.8.0-SNAPSHOT)
+RSFComponents (This currently has test errors and isn't released at the moment)
+
+(These last 2 components depend directly on Sakai so can't be released separately)
 SakaiRSF 
 SakaiRSFComponents
-
